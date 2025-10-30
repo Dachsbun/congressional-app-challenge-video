@@ -1,1 +1,1 @@
-[![Watch the video](https://raw.githubusercontent.com/Dachsbun/congressional-app-challenge-video/main/thumbnail.jpg)](https://raw.githubusercontent.com/Dachsbun/congressional-app-challenge-video/main/congressional_app_challenge2.mp4)
+[Click this link to download the video](https://raw.githubusercontent.com/Dachsbun/congressional-app-challenge-video/main/congressional_app_challenge2.mp4)
